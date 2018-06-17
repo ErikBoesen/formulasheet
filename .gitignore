@@ -221,3 +221,5 @@ TSWLatexianTemp*
 
 # Output files
 *.pdf
+
+.DS_Store
